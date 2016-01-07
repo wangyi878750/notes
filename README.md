@@ -1,3 +1,3 @@
 # notes
-A few note about OFBiz
+A few note
 Test 
