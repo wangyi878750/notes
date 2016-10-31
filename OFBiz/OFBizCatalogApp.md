@@ -50,31 +50,31 @@
 ## 1.3 分类
 ### 1.3.1 分类管理
 按照分类ID和分类名称查询分类清单。
-![产品分类相关人员](images\ProductCategoryMgr.png)
+![产品分类相关人员](images\\ProductCategoryMgr.png)
 ### 1.3.2 创建分类
 输入基本信息创建分类。
-![产品分类相关人员](images\ProductCategoryCreate.png)
+![产品分类相关人员](images\\ProductCategoryCreate.png)
 ### 1.3.3 修改分类
 #### 1.3.3.1 基本信息修改
-![产品分类相关人员](images\ProductCategoryEdit.png)
+![产品分类相关人员](images\\ProductCategoryEdit.png)
 ##### 基本信息
 ##### 图片信息
 ##### 产品分类复制
 #### 1.3.3.2 分类关联内容管理
-![产品分类相关人员](images\ProductCategoryContents.png)
+![产品分类相关人员](images\\ProductCategoryContents.png)
 ##### 关联内容清单
 ##### 添加产品类别内容
 选择内容ID，开始日期
 ##### 添加关联内容
 ##### 简单字段域值覆盖
 #### 1.3.3.3 分类层级管理
-![产品分类相关人员](images\ProductCategoryRoolup.png)
+![产品分类相关人员](images\\ProductCategoryRoolup.png)
 ##### 上层分级管理
 ##### 上层分级添加
 ##### 下层分级管理
 ##### 下层分级添加
 #### 1.3.3.4 分类相关产品管理
-![产品分类相关人员](images\ProductCategoryProducts.png)
+![产品分类相关人员](images\\ProductCategoryProducts.png)
 ##### 1.3.3.4.1 分类产品激活或失效
 ##### 1.3.3.4.2 添加分类产品
 选择产品，设置起始日期，添加备注，即可添加产品到本分类。
@@ -87,7 +87,7 @@
 ##### 1.3.3.4.5 删除分类下全部过期产品
 可选：在某日期前过期
 #### 1.3.3.5 分类产品目录管理
-![产品分类相关人员](images\ProductCategoryCatalogs.png)
+![产品分类相关人员](images\\ProductCategoryCatalogs.png)
 ##### 分类产品目录清单
 这个分类所管理的所有目录的清单
 ##### 编辑分类产品目录
@@ -97,19 +97,19 @@
 ##### 添加分类产品目录
 设置目录，目录类型，起始时间（可选）
 #### 1.3.3.6 分类特征管理
-![产品分类相关人员](images\ProductCategoryFeatures.png)
+![产品分类相关人员](images\\ProductCategoryFeatures.png)
 ##### 将产品特产附加为分类特征
 ##### 分类特征清单
 ##### 从其他分类复制分类特征
 ##### 直接添加分类特性
 #### 1.3.3.7 分类相关人员管理
-![产品分类相关人员](images\ProductCategoryParties.png)
+![产品分类相关人员](images\\ProductCategoryParties.png)
 ##### 分类人员清单
 查看清单，编辑人员结束日期，删除人员。
 ##### 增加分类人员关联
 选择人员，角色，起始日期，新建关联。
 #### 1.3.3.8 分类属性管理
-![产品分类属性](images\ProductCategoryAttribute.png)
+![产品分类属性](images\\ProductCategoryAttribute.png)
 ##### 分类属性清单
 可以查看属性清单，修改属性值，删除属性。
 ##### 分类属性添加
